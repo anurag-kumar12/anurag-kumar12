@@ -1,4 +1,26 @@
-## Hi there 👋
+
+# Hi, I'm Anurag Kumar 👋
+
+🎓 B.Tech CSE (AI & ML) Student
+
+## About Me
+- 🌱 Currently learning C++ and Data Structures & Algorithms
+- 💻 Interested in Software Engineering and problem solving
+- 🤖 Exploring AI and Machine Learning
+- 🎯 Working towards building real-world projects
+
+## Skills I'm Learning
+- C
+- C++
+- Data Structures & Algorithms
+- Python
+
+## Goals
+- Practice coding consistently
+- Build meaningful projects
+- Contribute to open source
+
+
 
 <!--
 **anurag-kumar12/anurag-kumar12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
